@@ -3,8 +3,7 @@ Perfil
 ### Hi there 👋
 
 I'm Leandra G., and I've been working in the IT field since 2011. Today I'm Software Engineer focus on Quality Assurance. I'm also a content creator on Youtube channel artleagee
- So... you can see now that I love contributing to the community by creating articles,
-videos and sharing valuable information about IT careers. For more information access the links bellow.
+ So... you can see now that I love contributing to the community by creating articles, about IT topics. For more information access the links bellow.
 
   - 🔭 I’m currently working on 
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandragb/">Linkedin</a>

@@ -1,0 +1,26 @@
+# Leandra Gomes
+Perfil
+### Hi there 👋
+
+I'm Leandra G., and I've been working in the IT field since 2011. Today I'm Software Engineer focus on Quality Assurance. I'm also a content creator on Youtube channel artleagee
+ So... you can see now that I love contributing to the community by creating articles,
+videos and sharing valuable information about IT careers. For more information access the links bellow.
+
+  - 🔭 I’m currently working on 
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandragb/">Linkedin</a>
+  - 📢 Youtube Channels: <a href="https://www.youtube.com/c/leandrizita" target="">ARTLEAGEE</a>
+  - 📢 Site (blog): www.arleage.wordpress.com
+<p align="center">
+
+<!--
+**leandrizita/leandra-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

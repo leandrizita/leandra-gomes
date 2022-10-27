@@ -9,7 +9,7 @@ videos and sharing valuable information about IT careers. For more information a
   - 🔭 I’m currently working on 
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandragb/">Linkedin</a>
   - 📢 Youtube Channels: <a href="https://www.youtube.com/c/leandrizita" target="">ARTLEAGEE</a>
-  - 📢 Site (blog): www.arleagee.wordpress.com
+  - 📢 Site (blog): www.artleagee.wordpress.com
 <p align="center">
 
 <!--

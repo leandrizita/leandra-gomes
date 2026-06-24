@@ -8,7 +8,7 @@ I'm Leandra G., and I've been working in the IT field since 2011. Today I'm Soft
   - 🔭 I’m currently unemployed
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandragb/">Linkedin</a>
   - 📢 Youtube Channel: <a href="https://www.youtube.com/c/leandrizita" target="">ARTLEAGEE</a>
-  - 📢 Site (blog): www.artleagee.wordpress.com
+  - 📢 Site (blog): www.https://leartelier.lovable.app/
 <p align="center">
 
 <!--

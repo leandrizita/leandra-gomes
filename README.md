@@ -97,12 +97,6 @@ Aqui você encontrará meus projetos, estudos e minha evolução na área tanto 
     width="30px" 
     style="padding-right: 10px;" src="https://devicons.io/devicons/icons/claude-icon.svg"/>   
   
-<img 
-    align = "left" 
-    alt="Javascript"
-    title="Javascript" 
-    width="30px" 
-    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/javascript.svg"/>   
 
           
           

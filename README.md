@@ -1,25 +1,108 @@
-# Leandra Gomes
-Perfil
-### Hi there 👋
+# 💻 Leandra Gomes
 
-I'm Leandra G., and I've been working in the IT field since 2011. Today I'm Software Engineer focus on Quality Assurance. I'm also a content creator on Youtube channel artleagee
- So... you can see now that I love contributing to the community by creating articles, about IT topics. For more information access the links bellow.
+Olá! Seja bem-vindo(a) ao meu GitHub. 👋
 
-  - 🔭 I’m currently unemployed
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandragb/">Linkedin</a>
-  - 📢 Youtube Channel: <a href="https://www.youtube.com/c/leandrizita" target="">ARTLEAGEE</a>
-  - 📢 Site (blog): www.https://leartelier.lovable.app/
-<p align="center">
+Tenho desenvolvido projetos práticos voltados para testes manuais e automação de testes, buscando aplicar boas práticas de qualidade, documentação e automação para evoluir como Analista de Testes.
 
-<!--
-**leandrizita/leandra-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontrará meus projetos, estudos e minha evolução na área de QA.
+
+## 📂 Repositórios
+
+* 🧪 Projetos de Testes Automatizados
+* 📋 Casos de Teste
+* 🐞 Relatórios de Bugs
+* 📑 Planos de Teste
+* 📚 Estudos e Exercícios
+
+## 📫 Contato
+
+* 🔗 Linkedin: [Leandra Gomes](linkedin.com/in/leandragb/).
+* 📩 E-mail: leandragombar.tech@gmail.com
+
+### 🤖 Tecnologias em aprendizado:
+<img 
+    align = "left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
+<img 
+    align = "left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+        
+<img 
+    align = "left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+  <img 
+    align = "left" 
+    alt="VS Code"
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+<img 
+    align = "left" 
+    alt="Cypress"
+    title="Cypress" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
+
+<img 
+    align = "left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+
+<img 
+    align = "left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>    
+    
+
+<img 
+    align = "left" 
+    alt="Insomnia"
+    title="Insomnia" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>    
+
+   <img 
+    align = "left" 
+    alt="Typescript"
+    title="Typescript" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/typescript-icon.svg"/>   
+
+   <img 
+    align = "left" 
+    alt="Claude"
+    title="Claude" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/claude-icon.svg"/>   
+  
+<img 
+    align = "left" 
+    alt="Javascript"
+    title="Javascript" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/javascript.svg"/>   
+
+          
+          

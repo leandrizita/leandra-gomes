@@ -96,7 +96,22 @@ Aqui você encontrará meus projetos, estudos e minha evolução na área tanto 
     title="Claude" 
     width="30px" 
     style="padding-right: 10px;" src="https://devicons.io/devicons/icons/claude-icon.svg"/>   
-  
+
+<img 
+    align = "left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/angular-icon.svg"/>  
+    
+    
+  <img 
+    align = "left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://devicons.io/devicons/icons/nodejs-icon.svg"/>  
+
 
           
           

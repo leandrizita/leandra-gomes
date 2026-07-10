@@ -4,7 +4,7 @@ Olá! Seja bem-vindo(a) ao meu GitHub. 👋
 
 Tenho desenvolvido projetos práticos voltados para testes manuais e automação de testes, buscando aplicar boas práticas de qualidade, documentação e automação para evoluir como Analista de Testes.
 
-Aqui você encontrará meus projetos, estudos e minha evolução na área de QA.
+Aqui você encontrará meus projetos, estudos e minha evolução na área tanto de QA, Desenvolvimento Fullstack e Inteligência Artificial.
 
 ## 📂 Repositórios
 
